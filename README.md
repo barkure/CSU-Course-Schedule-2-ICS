@@ -32,4 +32,3 @@ courses_to_ics(courses)
 
 # 效果展示
 
-https://github.com/barkure/CSU-Course-Schedule-2-ICS/blob/main/captures/video.mp4
