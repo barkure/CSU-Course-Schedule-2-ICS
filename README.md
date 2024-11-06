@@ -12,7 +12,7 @@
 3. 克隆本仓库，安装所需模块：
 
 ```bash
-git clone 
+git clone https://github.com/barkure/CSU-Course-Schedule-2-ICS.git
 
 cd CSU-Course-Schedule-2-ICS
 
