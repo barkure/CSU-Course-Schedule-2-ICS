@@ -31,4 +31,5 @@ courses_to_ics(courses)
 5. 在日历导入刚刚获得的文件即可，不同日历软件各有差异，自己摸索。
 
 # 效果展示
-![](./captures/video.mp4)
+
+./captures/video.mp4
