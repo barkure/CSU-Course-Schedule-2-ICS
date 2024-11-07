@@ -1,6 +1,7 @@
 import pandas as pd
 from datetime import datetime, timedelta
 from ics import Calendar, Event
+from ics.alarm import DisplayAlarm
 from ics.grammar.parse import ContentLine
 
 
@@ -111,7 +112,17 @@ def courses_to_ics(courses):
         event.location = course.location
         event.extra.append(ContentLine(name="DTSTART;TZID=Asia/Shanghai", value=course.start_time.strftime('%Y%m%dT%H%M%S')))
         event.extra.append(ContentLine(name="DTEND;TZID=Asia/Shanghai", value=course.end_time.strftime('%Y%m%dT%H%M%S')))
+
+        # 添加提醒
+        alarm = DisplayAlarm(trigger=timedelta(minutes=-20))
+        event.alarms.append(alarm)
+
+        alarm2 = DisplayAlarm(trigger=timedelta(minutes=-5))
+        event.alarms.append(alarm2)
+
+        # 添加事件
         calendar.events.add(event)
+
     with open('courses.ics', 'w', encoding='utf-8') as f:
-        f.writelines(calendar)
+        f.writelines(calendar.serialize())
 

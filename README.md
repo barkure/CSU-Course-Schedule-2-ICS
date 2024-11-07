@@ -6,7 +6,7 @@
 使用第三方的课程表 APP 不是很优雅。
 # 截图展示
 
-|iPadOS 截图|iOS 截图1|iOS 截图2|
+|iPadOS 日历|iOS 日历|上课前通知|
 |:---:|:---:|:---:|
 |![](./captures/3.png)|![](./captures/4.png)|![](./captures/5.png)|
 
