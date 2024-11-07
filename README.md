@@ -1,10 +1,15 @@
 # CSU-Course-Schedule-2-ICS
-将中南大学课程表解析并生成 iCalendar 文件（.ics），以便导入日历。目前仅在 iOS/iPadOS 测试过。
+将中南大学课程表解析并生成 iCalendar 文件（.ics），以便导入日历。
+
+目前仅在 iOS/iPadOS 测试过。
 
 使用第三方的课程表 APP 不是很优雅。
 # 截图展示
 
-![](./captures/3.png)![](./captures/4.png)![](./captures/5.png)
+|iPadOS 截图|iOS 截图1|iOS 截图2|
+|:---:|:---:|:---:|
+|![](./captures/3.png)|![](./captures/4.png)|![](./captures/5.png)|
+
 
 # 如何使用
 1. 访问教务系统，点击“打印”下载课表（.xls格式）；
