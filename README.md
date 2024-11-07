@@ -41,9 +41,7 @@ courses_to_ics(courses)
 
 5. 在日历导入刚刚获得的文件即可，不同日历软件各有差异，自己摸索。
 
-# iOS 导入示例
+# 导入示例
 
-|||
-|:---:|:---:|
-|https://github.com/user-attachments/assets/32c5ed9f-f22e-490b-957f-2a945192cf49|111|
+
 
