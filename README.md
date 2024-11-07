@@ -8,7 +8,7 @@
 
 |iPadOS 日历|iOS 日历|上课前通知|
 |:---:|:---:|:---:|
-|![](./captures/3.png)|![](./captures/4.png)|![](./captures/5.png)|
+|![](./captures/3.jpg)|![](./captures/4.jpg)|![](./captures/5.jpg)|
 
 
 # 如何使用
