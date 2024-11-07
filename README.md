@@ -43,5 +43,8 @@ courses_to_ics(courses)
 
 # 导入示例
 
+https://github.com/user-attachments/assets/07f726d5-3cf8-4659-aab0-3a464a3daa3d
+
+
 
 
