@@ -43,5 +43,7 @@ courses_to_ics(courses)
 
 # iOS 导入示例
 
-https://github.com/user-attachments/assets/32c5ed9f-f22e-490b-957f-2a945192cf49
+|||
+|:---:|:---:|
+|https://github.com/user-attachments/assets/32c5ed9f-f22e-490b-957f-2a945192cf49|111|
 
